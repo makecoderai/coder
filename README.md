@@ -6,6 +6,8 @@
 
 [MakeCoder 免费注册&领取积分](https://makecoder.com/)
 
+<img width="1041" height="572" alt="coder002" src="https://github.com/user-attachments/assets/afdb1a16-e2a1-49d1-8211-cdfbd683ab34" />
+
 ## 安装
 
 ### 前置环境
